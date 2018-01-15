@@ -1,2 +1,2 @@
 # github-demo
-Learning how Git works
+Testing bed for learning how Git works
